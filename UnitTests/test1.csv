@@ -1,0 +1,4 @@
+"ID","Value1","Value2","Value3"
+1,"String0 with a \\ backslash",1,1.0
+2,"String1, with comma",2,2.0
+3,"String2 \"quoted\" with escape sequence",3,3.0
