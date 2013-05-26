@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**************************************************
+ * Author : hollystyles@fastmail.co.uk
+ * Date : 26/05/2013
+ * 
+ * A CSV stream and file reader.
+ * 
+ * ************************************************/
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;

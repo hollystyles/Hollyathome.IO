@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**************************************************
+ * Author : hollystyles@fastmail.co.uk
+ * Date : 26/05/2013
+ * 
+ * Unit tests for the CsvReader.
+ * 
+ * ************************************************/
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Hollyathome.IO;
 
